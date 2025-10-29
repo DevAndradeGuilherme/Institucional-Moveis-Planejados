@@ -16,22 +16,6 @@ Landing page para empresa de confecção de móveis planejados utilizando React 
 - python-dotenv
 - smtplib (nativo do Python)
 
-## Estrutura do Projeto
-
-meu-projeto/
-│
-├── frontend/              # Aplicação React
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-│
-└── backend/               # API Flask
-    ├── app.py
-    ├── .env.example
-    ├── requirements.txt
-    └── ...
-
 ## Como Rodar o Projeto Localmente
 
 ### 1. Clonar o repositório
