@@ -1,0 +1,18 @@
+.container {
+  display: grid;
+  max-width: 910px;
+  margin: 0 auto;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 30px;
+  align-items: start;
+  padding: 148px 0;
+}
+
+.texts {
+  padding: 25px;
+}
+
+.cards {
+  display: contents;
+}
+

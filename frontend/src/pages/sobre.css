@@ -1,0 +1,8 @@
+.sobre-container {
+    display: flex;
+    justify-content: center;
+}
+
+.sobre-itens {
+    padding: 88px 0 0 35px;
+}

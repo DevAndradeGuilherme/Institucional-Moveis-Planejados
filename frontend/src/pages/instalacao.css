@@ -1,0 +1,21 @@
+#instalacao {
+    height: 720px;
+    width: 100vw;
+}
+
+.background-instalacao {
+    text-align: center;
+    background: url('../assets/background-instalacao.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 720px;    
+}
+
+.titulo {
+    position: relative;
+    top: 88px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #ED5707;
+}
