@@ -1,6 +1,6 @@
 # Meu Projeto Fullstack
 
-Landing page para empresa de confecção de móveis planejados utilizando React + Flask para formulario contato
+Landing page para empresa de confecção de móveis planejados utilizando React + Flask para formulario contato | OTIMIZADO SOMENTE PARA DESKTOP
 
 ## Tecnologias Utilizadas
 
